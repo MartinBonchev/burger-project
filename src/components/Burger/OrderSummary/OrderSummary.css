@@ -1,0 +1,20 @@
+.Close {
+  outline: none;
+  border: none;
+  background: transparent;
+  display: flex;
+  cursor: pointer;
+  font-size: 20px;
+  position: absolute;
+  right: 0;
+}
+.Close:hover {
+  font-size: 22px;
+}
+.TitleBox {
+  display: flex;
+  position: relative;
+}
+.Title {
+  text-align: center;
+}
